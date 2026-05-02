@@ -327,8 +327,8 @@ VITE_API_URL = https://your-backend.railway.app/api
 
 ## 📋 Submission
 
-- **Live URL:** [Add Railway frontend URL]
-- **GitHub Repository:** [Add GitHub URL]
+- **Live URL:** [Add after Railway deployment]
+- **GitHub Repository:** https://github.com/Rishi-Rathore/team-task-manager
 - **Demo Video:** [Add 2-5 minute demo video link]
 
 ---
